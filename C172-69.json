@@ -1,0 +1,205 @@
+{
+    "int_pt_or_pl_parts": [
+        {
+            "pnr": "0413484-2",
+            "pname": "SHIELD-FRONT DOORPOST LH"
+        },
+        {
+            "pnr": "0413484-4",
+            "pname": "SHIELD-FRONT DOORPOST LH"
+        },
+        {
+            "pnr": "0500210-42",
+            "pname": "PANEL-BAGGAGE COMPARTMENT REAR"
+        },
+        {
+            "pnr": "0500210-44",
+            "pname": "COVER-CENTERPOST"
+        },
+        {
+            "pnr": "0500210-81",
+            "pname": "SHIELD-DOORPOST LH"
+        },
+        {
+            "pnr": "0500210-82",
+            "pname": "SHIELD-DOORPOST RH"
+        },
+        {
+            "pnr": "0500210-95",
+            "pname": "COVER-BAGGAGE DOOR FRAME FWD"
+        },
+        {
+            "pnr": "0500210-96",
+            "pname": "COVER-BAGGAGE DOOR FRAME AFT"
+        },
+        {
+            "pnr": "0500210-97",
+            "pname": "PANEL-BAGGAGE COMPARTMENT RH"
+        },
+        {
+            "pnr": "0500210-108",
+            "pname": "COVER-COWL DECK"
+        },
+        {
+            "pnr": "0500210-132",
+            "pname": "COVER-REAR WINDOW"
+        },
+        {
+            "pnr": "0500210-135",
+            "pname": "MOULDING - REAR WINDOW"
+        },
+        {
+            "pnr": "0500233-1",
+            "pname": "COVER - CONSOLE"
+        },
+        {
+            "pnr": "0500403-1",
+            "pname": "COVER - CONTROL YOKE"
+        },
+        {
+            "pnr": "0511470-4",
+            "pname": "PANEL  BAGGAGE COMPARTMENT RH"
+        },
+        {
+            "pnr": "0511482-9",
+            "pname": "COVER ASSEMBLY - INSTRUMENT LIGHT"
+        },
+        {
+            "pnr": "0511482-20",
+            "pname": "SHIELD - INSTRUMENT LIGHT"
+        },
+        {
+            "pnr": "0513062-1",
+            "pname": "SPLICE PLATE"
+        },
+        {
+            "pnr": "0513062-2",
+            "pname": "SPLICE PLATE USED WITH MAP LIGHT"
+        },
+        {
+            "pnr": "0513242-10",
+            "pname": "COVER - INSTRUMENT PANEL UPPER" 
+        },
+        {
+            "pnr": "0513242-18",
+            "pname": "COVER - SHOCK PANEL"
+        },
+        {
+            "pnr": "0513319-5",
+            "pname": "COVER - RADIO CUTOUT"
+        },
+        {
+            "pnr": "0513390-9",
+            "pname": "COVER - ENGINE INSTRUMENTS"
+        },
+        {
+            "pnr": "0513390-22",
+            "pname": "COVER LWR RH"
+            
+        },
+        {
+            "pnr": "0513390-27",
+            "pname": "COVER - INSTRUMENT PANER LWR"
+        },
+        {
+            "pnr": "0513390-29",
+            "pname": "COVER - MAP CASE DOOR"
+        },
+        {
+            "pnr": "0514011-1",
+            "pname": "TRIM ASSEMBLY - REAR SEAT BACK"
+        },
+        {
+            "pnr": "0514012-1",
+            "pname": "COVER - WINDOW LH"
+        },
+        {
+            "pnr": "0514012-2",
+            "pname": "COVER - WINDOW RH"
+        },
+        {
+            "pnr": "0700100-193",
+            "pname": "RETAINER - UPHOLSTERY"
+        },
+        {
+            "pnr": "0700114-35",
+            "pname": "PANEL - BAGGAGE DOOR"
+        },
+        {
+            "pnr": "0700148-1",
+            "pname": "HOOD - MAPLIGHT"
+        },
+        {
+            "pnr": "0700631-5",
+            "pname": "FRAME ASSEMBLY - SEAT BOTTOM LH"
+        },
+        {
+            "pnr": "0700631-6",
+            "pname": "FRAME ASSEMBLY - SEAT BOTTOM RH"
+        },
+        {
+            "pnr": "0700646-1",
+            "pname": "SEAT LH"
+        },
+        {
+            "pnr": "0700646-2",
+            "pname": "SKIRT SEAT RH"
+        },
+        {
+            "pnr": "0711097-2",
+            "pname": "FRAME ASSEMBLY - SEAT"
+        },
+        {
+            "pnr": "0711133-50",
+            "pname": "SHIELD - FRONT DOORPOST RH"
+        },
+        {
+            "pnr": "0715001-1",
+            "pname": "TRIM - SEAT BACK"
+        },
+        {
+            "pnr": "1414215-7",
+            "pname": "TRIM ASSEMBLY - SEAT BACK LH"
+        },
+        {
+            "pnr": "1414215-8",
+            "pname": "TRIM ASSEMBLY - SEAT BACK RH"
+
+        },
+        {
+            "pnr": "1470089-14",
+            "pname": "MAPLIGHT ASSEMBLY"
+        },
+        {
+            "pnr": "1715023-3",
+            "pname": "POCKET - MAGAZINE"
+        }
+    ],
+    "MISC-BULK-ITEMS": [
+        {"pnr": "C1-C2","dsc": "CONLEY-WELD EPOXY BASE ADHESIVE."},
+        {"pnr": "EC880","dsc": "ADHESIVE-SYNTHETIC RUBBER BASE OIL RESISTANT"},
+        {"pnr": "1024A-3","dsc": "CEMENT PARTS A & B"},
+        {"pnr": "1007","dsc": "PRIMER"},
+        {"pnr": "576.1","dsc": "SEALANT EXTRUDER"},
+        {"pnr": "579.6","dsc": "SEALANT EXTRUDER"},
+        {"pnr": "S1078-1","dsc": "SEALANT-SYNTHETIC RUBBER-FABRICK REINFORCED .06 THICK .50 WIDE"},
+        {"pnr": "S1078-2","dsc": "SEALANT-SYNTHETIC RUBBER-FABRICK REINFORCED .12 THICK .50 WIDE"},
+        {"pnr": "S1078-3","dsc": "SEALANT-SYNTHETIC RUBBER-FABRICK REINFORCED 2 MIL MYLAR TAPE BACKING. .06 THICK 1.50 WIDE"},
+        {"pnr": "EC1239A-B","dsc": "SEALANT-CATALYTIC"},
+        {"pnr": "700","dsc": "SEALANT-FIREWALL"},
+        {"pnr": "EC776","dsc": "ADHESIVE-GASKET FUEL RESISTANT SYNTHETIC RUBBER BASE."},
+        {"pnr": "550","dsc": "SOUND DEADENER-LIQUID VIBRATION DAMPENER"},
+        {"pnr": "MX25A","dsc": "PRIMER-ZINC CHROMATE-YELLOW"},
+        {"pnr": "LOCTITE 5381","dsc": "EPOXY MIXER CUP"},
+        {"pnr": "EC22168B/A","dsc": "ADHESIVE PARTS A & B"},
+        {"pnr": "LOCTITE 8721","dsc": "LOCKING AND RETAINING COMPOUND"},
+        {"pnr": "S51-4","dsc": "HOSE-FUEL & OIL-1/4 ID"},
+        {"pnr": "S51-6","dsc": "HOSE-FUEL & OIL-3/8 ID"},
+        {"pnr": "S51-8","dsc": "HOSE-FUEL & OIL-1/2 ID"},
+        {"pnr": "S51-10","dsc": "HOSE-FUEL & OIL-5/8 ID"},
+        {"pnr": "S51-12","dsc": "HOSE-FUEL & OIL-3/4 ID"},
+        {"pnr": "S51-16","dsc": "HOSE-FUEL & OIL-1.00 ID"},
+        {"pnr": "S51-32","dsc": "HOSE-FUEL & OIL-2.00 ID"}
+        //Next: -16 S202RB, page 73
+    ]
+}
